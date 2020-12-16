@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>My name is Muhammad Nur Hidayatul Khoiron, you can call me Khoiron, i am a associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. 😁</br>
+<p><em>My name is Muhammad Nur Hidayatul Khoiron, you can call me Khoiron, I am an associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. 😁</br>
 </em></p>
 
 <h2>💻 Some stats 💻</h2>
