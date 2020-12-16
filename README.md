@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><em>My name is Muhammad Nur Hidayatul Khoiron, you can call me Khoiron, i am a associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. 😁</br>
+</em></p>
+
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
