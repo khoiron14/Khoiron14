@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    My name is Muhammad Nur Hidayatul Khoiron, you can call me Khoiron, I am an associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering    Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. 😁</br>
+    🔭 I’m currently working on ...
   </em>
 </p>
 
