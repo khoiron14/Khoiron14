@@ -40,7 +40,3 @@
 | <img src="https://img.icons8.com/ios-filled/50/ffffff/pi.png" width="20"/> | **Mathematics**            | Sharpening the logic & theory behind computational algorithms.               |
 | <img src="https://img.icons8.com/ios-filled/50/9CA3AF/electronics.png" width="20"/> | **Electronics**            | Diving into electronics as a beginner, exploring microcontrollers.                             |
 | <img src="https://img.icons8.com/color/48/bitcoin--v1.png" width="20"/> | **Cryptocurrency**         | Understanding blockchain, smart contracts, and market analysis.              |
-
-
-
----
